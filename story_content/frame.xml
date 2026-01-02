@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Untitled1" />
+              <option name="title_text" value="01" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -33,7 +33,7 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="true">
+          <option name="time_enabled" value="false">
             <options>
               <option name="time_format" value="" />
             </options>
@@ -1284,21 +1284,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.68wJMzCKsaa" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6iHFVtRkCtn" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.68wJMzCKsaa.6dWSzedfzk7" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5lVNAEFp2hb" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5lVNAEFp2hb.5oYPkAYxmms" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.5eHo3UFtg0M" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.5wpJybjF2Vv" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.6GXFOGrgdVi" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.61cLbBup9u2" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.5Z1kv5wsn1e" displaytext="عدد بعدی الگو را انتخاب کن و بنداز توی جای خالی&#xA;  2– 4 – 8-         " expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.60WjFMnn2oD" displaytext="عدد بعدی الگو را بنویس&#xA;&#xA; 1 – 4 – 9-        " expand="false" type="slide" />
-            <slidelink slideid="_player.5lVNAEFp2hb.6pgHGMUHfjs" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6iHFVtRkCtn.5uzwxoOB4XY" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
